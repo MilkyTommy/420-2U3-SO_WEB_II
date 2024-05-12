@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+      {
+          "name": "Cours7 groupe1",
+          "type": "firefox",
+          "request": "launch",
+          "reAttach": true,
+          "file": "${workspaceFolder}/cours7/groupe1/index.html"
+      }
+  ]
+}
